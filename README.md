@@ -1,7 +1,6 @@
 <img src="/imagegit.jpeg" alt="Banner" width="300" height="300" align="center" />
 
-### Hi there Welcome to my Github page 👋
-### Hi there 👋
+### Hi there! Welcome to my Github page. 👋
 
 I’m a third-year undergrad, pursuing Computer Science and Engineering with a keen interest in Web Development and an open-source enthusiast.
 

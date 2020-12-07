@@ -26,6 +26,8 @@ I am a keen learner and love to explore different things.
 
 <img src="https://img.shields.io/badge/NodeJS-303030?logo=node&logoColor=white&style-the-badge" alt="node"/>
 
+<img src="https://img.shields.io/badge/php-8993be?logo=php&logoColor=white&style-the-badge" alt="gsuite"/>
+
 <img src="https://img.shields.io/badge/Canva-B3FFFF?logo=canva&logoColor=white&style-the-badge" alt="canva"/>
 
 <img src="https://img.shields.io/badge/Microsoft Office-DC3E15?logo=microsoft&logoColor=white&style-the-badge" alt="microsoft"/>

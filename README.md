@@ -37,7 +37,7 @@ I am a keen learner and love to explore different things.
 <img src="https://img.shields.io/badge/Cloud Computing-FF9900?logo=amazon&logoColor=white&style-the-badge" alt="aws"/>
 </p>
 
-- I'm currently working on some opensource project.
+- I'm currently working on some open source project.
 - I do Web Development and I'm mainly focused on Frontend side.
 - I am well-versed with Backend side too.
 - I am looking for some good open source project.

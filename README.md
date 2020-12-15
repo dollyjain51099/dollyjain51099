@@ -57,9 +57,13 @@ I am a keen learner and love to explore different things.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dollyjain51099" alt="Github Streak Stats">
 
+---
+
 ### GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dollyjain51099&count_private=true&title_color=EC7063&icon_color=FD9047&text_color=0C2233&custom_title=Dolly+Jain's+GitHub+Stats"/>
+
+---
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dollyjain51099&count_private=true&title_color=EC7063&icon_color=FD9047&text_color=0C2233&custom_title=Dolly+Jain's+GitHub+Stats"/>
 

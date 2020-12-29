@@ -1,12 +1,12 @@
 <img src="/imagegit.jpeg" alt="Banner" width="300" height="300" align="center" />
 
-### Hi there! Welcome to my Github page. <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there! Welcome to Dolly's Github page. <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I’m a third-year undergrad, pursuing Computer Science and Engineering with a keen interest in Web Development and an open-source enthusiast.
 
 I have worked as a product intern in a cloud-based multi-national company, UnitedLayer. I have also worked on areas of product analysis and management, cloud computing and UI/UX.
 
-I am a keen learner and love to explore different things.
+I'm a keen learner and love to explore different technologies.
 
 ---
 

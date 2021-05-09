@@ -6,6 +6,9 @@ I’m a third-year undergrad, pursuing Computer Science and Engineering with a k
 
 I have worked as a product intern in a cloud-based multi-national company, UnitedLayer. I have also worked on areas of product analysis and management, cloud computing and UI/UX.
 
+
+Currently I'm a Software Engineer Intern at IHS Markit. I'm working on automation of CI/CD pipeline that can execute the MongoDB scripts. 
+
 I'm a keen learner and love to explore different technologies.
 
 ---
